@@ -38,7 +38,7 @@
         <button className='right-8 mt-10 fixed  bottom-6 rounded-full w-42 h-12 z-50'><a href='/contact'>Get in touch</a></button>
         </div>
           <Image src={Man} className='lg:mx-60 sm:-mx-6 mt-10 z-50 lg:w-[32rem] sm:w-[18rem]' alt="Picture of me" />
-          <h1 className='lg:mt-60 lg:text-5xl lg:right-96 sm:mt-20 sm:text-3xl sm:w-36 sm:right-8 absolute text-black font-extrabold'>I'm Adarsh </h1>
+          <h1 className='lg:mt-60 lg:text-5xl lg:right-[13rem] sm:mt-20 sm:text-3xl lg:w-[20rem]  sm:w-36 sm:right-8 absolute text-black font-extrabold'>I'm Adarsh </h1>
           <h1 className='lg:mt-[22.3rem] lg:text-5xl lg:right-50 sm:mt-40 sm:text-3xl lg:w-[30rem] sm:w-32 sm:right-12 absolute text-black font-bold'>A Web Developer</h1>
         </div>
         <div>
