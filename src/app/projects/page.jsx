@@ -12,7 +12,7 @@ const Page = () => {
       <div className='ml-28 mt-5'>  
           <ol>
           <li className='font-extrabold text-2xl mb-3'>Done Projects :</li>
-            <li className=' text-2xl'>Qwerty Rumble: A typing test game for our college TechFest "Dhishna"</li>
+            <li className=' text-2xl'>Qwerty Rumble: A typing test game for our college TechFest &quot;Dhishna&quot;</li>
             <li className='font-extrabold text-2xl mb-3 mt-5'>Currently Working on :</li>
             <li className=' text-2xl'>GiftedBooks: An online Book selling Website.</li>
             <li className=' text-2xl'>HappyU: Website to prevent Suicides , considering their problem it provides solutions and help them .</li>
